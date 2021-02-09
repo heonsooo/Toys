@@ -5,4 +5,5 @@
 - 1-2)  selenium 이용
 
 ### 2) WordCloud 이용한 시각화
- 
+
+![youtube_comments_wordcloud.png](./img/youtube_comments_wordcloud.png)
