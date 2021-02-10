@@ -17,4 +17,4 @@ Toy Projects by Python
 
 
 ## Visualization
-- [데이터 시각화 방법들 연습](https://github.com/heonsooo/project_Visualization)
+- [데이터 시각화 방법들 연습](https://github.com/heonsooo/Toys/tree/main/Stock)
