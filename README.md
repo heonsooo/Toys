@@ -2,8 +2,8 @@
 Toy Projects by Python   
 2021-02-10 기준으로 이전의 저장소를 폴더로 옮겼고, 이후에는 이 저장소를 활용할 계획입니다.  
   
-## Crawling
-- [여러가지 크롤링입니다.](https://github.com/heonsooo/Toys/tree/main/Crawling) 
+## Web Crawling / Scraping
+- [여러가지 크롤링입니다.](https://github.com/heonsooo/Toys/tree/main/Scraping) 
   
 ## Stock 
 - [증권 데이터 분석](https://github.com/heonsooo/Toys/tree/main/Stock)
